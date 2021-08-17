@@ -4,3 +4,4 @@ Yusup Resolusi
 3)sukses 
 4)full stack js
 5)full stack dev
+6)react.js
