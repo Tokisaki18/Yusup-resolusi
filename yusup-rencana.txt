@@ -1,4 +1,4 @@
 1)belajar github 3
   -bisa melakukan branch
-  -melakukan merge 
-  -bisa mengoprasikan github
+  ^melakukan merge 
+  ^bisa mengoprasikan github
